@@ -4,9 +4,10 @@
 
 export const environment = {
   production: false,
-   firebaseConfig : {
+  firebaseConfig: {
     apiKey: "AIzaSyBiJ-Oz8VcnyxF0w3MK8RDIPQ_1tblzY7g",
     authDomain: "todo-app-59fd8.firebaseapp.com",
+    databaseURL: "https://todo-app-59fd8-default-rtdb.firebaseio.com",
     projectId: "todo-app-59fd8",
     storageBucket: "todo-app-59fd8.appspot.com",
     messagingSenderId: "277770858839",
